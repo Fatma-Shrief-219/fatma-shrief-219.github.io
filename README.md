@@ -8,11 +8,10 @@
 
 ## 💼 About Me
 
-I'm a detail-oriented computer science student with a strong interest in *data analysis, **problem-solving, and **software development*.  
+I'm a detail-oriented computer science student with a strong interest in **data analysis**, **problem-solving**, and **software development**.  
 With experience in Python, SQL, and C++, I enjoy building systems that are not just functional, but smart and efficient.
 
-I'm currently exploring areas like *operating systems, **algorithms, and **task automation*, and I’m always looking for new challenges to grow technically and creatively.
-
+I'm currently focusing on **Data Science** — especially *data analysis* and *visualization* using *Python*, *SQL*, and *Excel*. I love turning raw data into real insights.
 ---
 
 ## 🔧 Technical Skills
