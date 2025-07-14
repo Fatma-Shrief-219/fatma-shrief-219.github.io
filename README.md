@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fatma Shrief
 
 🎓 Computer Science Undergraduate @ Egyptian Chinese University  
-📊 Minoring in Data Science | CGPA: 3.60  
+📊 Minoring in Data Science
 📍 Cairo, Egypt  
 
 ---
