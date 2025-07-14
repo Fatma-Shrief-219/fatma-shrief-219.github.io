@@ -8,8 +8,8 @@
 
 ## 💼 About Me
 
-I'm a passionate *Data Science* learner with strong skills in *Python, **SQL, and **C++*, aiming to turn data into smart, real-world solutions.  
-I'm currently exploring data analysis, visualization, and automation to sharpen my technical and problem-solving abilities.
+I'm a passionate *Data Science* learner with strong skills in *Python*, *SQL*, and *C++*, aiming to turn data into smart, real-world solutions.  
+I'm currently exploring **data analysis**, **visualization**, and automation to sharpen my technical and problem-solving abilities.
 
 ---
 
